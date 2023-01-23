@@ -249,5 +249,7 @@ ipython_config.py
 # Output files
 *.out
 
-
+# model folders
+uti_symtoms_model/
+uti_symtoms_model_gpu/
 
