@@ -253,3 +253,5 @@ ipython_config.py
 uti_symtoms_model/
 uti_symtoms_model_gpu/
 
+# output files
+*.csv
